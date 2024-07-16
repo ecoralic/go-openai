@@ -1,3 +1,3 @@
-module github.com/sashabaranov/go-openai
+module github.com/ecoralic/go-openai
 
-go 1.18
+go 1.22
